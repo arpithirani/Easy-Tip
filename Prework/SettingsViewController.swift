@@ -165,9 +165,6 @@ class SettingsViewController: UIViewController, UIPickerViewDelegate, UIPickerVi
         defaults.set(Int(self.PartyCount.text!), forKey:"PartyCount")
     }
     
-
-    
-    
     /*
     // MARK: - Navigation
 
