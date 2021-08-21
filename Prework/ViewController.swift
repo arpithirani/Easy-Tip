@@ -63,7 +63,7 @@ class ViewController: UIViewController {
         if (Tip3 != ""){
             self.tipControl.setTitle(Tip3, forSegmentAt: 2)
         }
-        
+
         calculateTip(animated as AnyObject)
         
     }
